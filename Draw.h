@@ -1,5 +1,4 @@
-#pragma once
-#pragma once
+
 #include <iostream>
 #include "Source.cpp"
 void Draw()                                                                                               //painting  the area
