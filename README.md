@@ -1,4 +1,4 @@
-#ALL SNAKE
+
 #include <iostream>
 #include <conio.h>          //it is for the Input to see what player press;
 #include <iomanip>
