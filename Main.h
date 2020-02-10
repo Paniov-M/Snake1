@@ -1,4 +1,3 @@
-#pragma once
 #include <iostream>
 #include "Source.cpp"
 #include <iostream>
