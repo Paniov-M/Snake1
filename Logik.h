@@ -1,4 +1,4 @@
-#pragma once
+
 #include <iostream>
 #include "Source.cpp"
 void Logik()
